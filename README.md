@@ -1,2 +1,3 @@
 # cs_nazwa-esc
-Nazwa pod ESC
+
+Support: https://discord.gg/TRJcW3rNBd
